@@ -1,0 +1,77 @@
+body { 
+	background-color: red;
+}
+
+.input_block {
+	padding: 40px;
+	margin: 0 auto;
+    display: block;
+	font-size: 60px;	
+}
+
+.title {
+	background-color: ;
+	color: white;
+	border-radius: 60%;
+	text-align: center;
+	text-shadow: 30px;
+	padding: 40px;
+	font-size: 80px;
+}
+
+.go_button {
+	margin: 0 auto;
+    display: block;
+	padding: 30px;
+	font-size: 35px;
+}
+
+.elements {
+	border-radius: 40%;
+	text-align: center;
+	font-size: 70px;
+	background-color: yellow;
+	padding: 40px;
+    margin: 0 auto;
+    display: block;
+	color: red;
+	height: 30px;
+}
+
+.random {
+	background-color: red;
+	color: white;
+	border-radius: 70%;
+	text-align: center;
+	text-shadow: 30px;
+	padding: 40px;	
+}
+
+.counter {
+	background-color: red;
+	color: yellow;
+	border-radius: 40%;
+	text-align: center;
+	text-shadow: 20px;
+	padding: 30px;
+	font-size: 60px;
+}
+
+.help1 {
+	background-color: red;
+	color: black;
+	border-radius: 60%;
+	text-align: center;
+	text-shadow: 20px;
+	padding: 40px;
+	font-size: 20px;	
+}
+.help2 {
+	background-color: yellow;
+	color: black;
+	border-radius: 30%;
+	text-align: center;
+	text-shadow: 20px;
+	padding: 30px;
+	font-size: 60px;	
+}
